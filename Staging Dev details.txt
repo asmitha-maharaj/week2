@@ -1,0 +1,2 @@
+VA-AZURE-SQL4\THANKQ_DEV
+Staging_Dev
